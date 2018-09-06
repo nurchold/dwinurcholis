@@ -1,0 +1,28 @@
+{
+  "catImageList": [
+    {
+      "type": "white",
+      "imageList": [
+        "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "https://images.pexels.com/photos/1084425/pexels-photo-1084425.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "https://images.pexels.com/photos/7517/animal-sitting-animals-inside.jpg?auto=compress&cs=tinysrgb&h=750&w=1260"
+      ]
+    },
+    {
+      "type": "Brown",
+      "imageList": [
+        "https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "https://images.pexels.com/photos/615369/pexels-photo-615369.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "https://images.pexels.com/photos/9413/animal-cute-kitten-cat.jpg?auto=compress&cs=tinysrgb&h=750&w=1260"
+      ]
+    },
+    {
+      "type": "Dark",
+      "imageList": [
+        "https://images.pexels.com/photos/37337/cat-silhouette-cats-silhouette-cat-s-eyes.jpg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "https://images.pexels.com/photos/416135/pexels-photo-416135.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+        "https://images.pexels.com/photos/302280/pexels-photo-302280.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260"
+      ]
+    }
+  ]
+}
